@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Utpal Kant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **AllBetExceh**
+- 🔭 I’m currently working on **Snapify**
 
 - 🌱 I’m currently learning **Backend**
 
-- 🤝 I’m looking for help with **Qscan**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Utpalkant95?tab=repositories](https://github.com/Utpalkant95?tab=repositories)
 
-- 💬 Ask me about **React js, Next Js, Python**
+- 💬 Ask me about **React js, Next Js**
 
 - 📫 How to reach me **utpalkant881@gmail.com**
 
