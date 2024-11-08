@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **utpalkant881@gmail.com**
 
-<h3 align="left">Connect with me: utpalkant881@gmail.com</h3>
 <p align="left">
 </p>
 
