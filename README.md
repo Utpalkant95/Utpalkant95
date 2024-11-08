@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utpalkant95?tab=repositories](https://github.com/Utpalkant95?tab=repositories)
 
-- 💬 Ask me about **React js, Next Js**
+- 💬 Ask me about **React Js, Next Js**
 
 - 📫 How to reach me **utpalkant881@gmail.com**
 
